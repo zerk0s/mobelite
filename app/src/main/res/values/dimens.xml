@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <dimen name="button_lr">15dp</dimen>
+    <dimen name="button_tb">10dp</dimen>
+    <dimen name="view_space">20dp</dimen>
+    <dimen name="item_padding">5dp</dimen>
+    <dimen name="card_elev">1dp</dimen>
+    <dimen name="card_bottom">2dp</dimen>
+</resources>

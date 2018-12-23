@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:orientation="vertical"
+    android:id="@+id/frame_error_connection"
+    android:visibility="gone"
+    >
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/msg_error_connection"
+        android:textSize="18sp"
+        android:fontFamily="sans-serif-condensed"
+        android:gravity="center_horizontal"
+        android:layout_gravity="center"
+        />
+
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/ressayer"
+        android:paddingLeft="@dimen/button_lr"
+        android:paddingRight="@dimen/button_lr"
+        android:paddingBottom="@dimen/button_tb"
+        android:paddingTop="@dimen/button_tb"
+        android:layout_marginBottom="40dp"
+        android:layout_gravity="bottom|center_horizontal"
+        android:id="@+id/button_check_connection"
+        />
+
+</FrameLayout>

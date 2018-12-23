@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Mobelite</string>
+
+
+    <!-- TEXT RESSOURCES -->
+    <string name="ressayer">Réssayez-vous</string>
+    <string name="user_id">Id utilisateur</string>
+    <string name="post_id">Post Numéro</string>
+    <string name="title_post">Titre</string>
+    <string name="body_post">Détail</string>
+    <!-- MESSAGES-->
+    <string name="msg_error_connection">Vérifiez votre connexion</string>
+    <string name="msg_connection">Aucun connexion</string>
+    <string name="msg_empty_data">Aucun Posts</string>
+    <string name="msg_error">Aucun données</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
